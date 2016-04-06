@@ -1,0 +1,20 @@
+{
+  "name": "jodata",
+  "version":  "1.1.0",
+  "authors": [
+    "mccow002"
+  ],
+  "main": "src/joData.js",
+  "description": "Builds and manages a javascript object that represents an oData query string",
+  "homepage": "https://github.com/mccow002/joData"
+  "ignore": [
+	"example",
+	"nuget",
+	"spec",
+	"test",
+	".travis.yml",
+	"Gemfile",
+	"Gemfile.lock",
+	"rakefile"
+  ]  
+}

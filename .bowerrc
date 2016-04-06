@@ -1,0 +1,10 @@
+{
+  "directory": "bower_components",
+  "registry": {
+        "search": [
+             "https://www.myget.org/F/trekking-for-charity-bower/bower/",
+             "https://bower.herokuapp.com"
+       ],
+       "register": "https://www.myget.org/F/trekking-for-charity-bower/auth/fc71ca9b-8db7-4fa3-ada1-97865cbcc534/bower/"
+    }
+}
