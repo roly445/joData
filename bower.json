@@ -6,7 +6,7 @@
   ],
   "main": "src/joData.js",
   "description": "Builds and manages a javascript object that represents an oData query string",
-  "homepage": "https://github.com/mccow002/joData"
+  "homepage": "https://github.com/mccow002/joData",
   "ignore": [
 	"example",
 	"nuget",
